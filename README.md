@@ -3,18 +3,18 @@
 A curated list of awesome Django apps, projects and resources. Inspired by and based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 - [Awesome Django](#awesome-django)
-    - [Admin Interface](#admin-interface)
-    - [Asset Management](#asset-management)
+    - [Admin Interface](#admin-interface) done
+    - [Asset Management](#asset-management) done
     - [Authentication](#authentication)
     - [Authorization](#authorization)
     - [Caching](#caching)
     - [Compatibility](#compatibility)
     - [Debugging](#debugging)
-    - [Email](#email)
-    - [Fields](#fields)
+    - [Email](#email) done
+    - [Fields](#fields) done
     - [File Transfers](#file-transfers)
     - [Forms](#forms)
-    - [Migrations](#migrations)
+    - [Migrations](#migrations) done
     - [Mobile Support](#mobile-support)
     - [Model Extensions](#model-extensions)
     - [Project Management](#project-management)
